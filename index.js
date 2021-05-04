@@ -1,1 +1,1 @@
-console.log("Fala mue frango");
+console.log("Fala meu frango");
